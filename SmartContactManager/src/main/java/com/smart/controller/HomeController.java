@@ -20,4 +20,11 @@ public class HomeController {
 		return "about";
 
 	}
+	
+	@GetMapping("/signup")
+	public String signup(Model model) {
+		model.addAttribute("title","Register - Smart Contact Manager");
+		return "signup";
+
+	}
 }

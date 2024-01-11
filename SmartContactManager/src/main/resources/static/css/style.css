@@ -8,6 +8,7 @@ body{
 .banner{
 	width:100%;
 	height:93vh;
-	background:url(/static/image/selfeImage.jpg);
+	background:linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.8)),url(../image/road-1072823_1920.jpg);
+	bacgroud-size:cover;
 	color:white;
 }
