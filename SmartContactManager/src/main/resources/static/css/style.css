@@ -1,0 +1,13 @@
+body{
+	background:pink;
+}
+.bg-primary{
+	backgroung: #009688 !important;
+}
+
+.banner{
+	width:100%;
+	height:93vh;
+	background:url(/static/image/selfeImage.jpg);
+	color:white;
+}
